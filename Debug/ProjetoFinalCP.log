@@ -1,4 +1,0 @@
-﻿  ProjetoFinalCP.cpp
-ProjetoFinalCP.obj : error LNK2019: símbolo externo não resolvido, __imp____glutInitWithExit@12, referenciado na função _glutInit_ATEXIT_HACK@8
-D:\pedro\Downloads\freeglut\lib\x64\freeglut.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
-D:\pedro\Documents\VSCode\ProjetoFinalCP\Debug\ProjetoFinalCP.exe : fatal error LNK1120: 1 externo não resolvidos
